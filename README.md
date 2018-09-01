@@ -1,7 +1,7 @@
 # TranslationStage_CERN
 > Software for linear motorized stages developed at CERN for UA9 experiment. Graphic User Interface based on Matlab and Arduino code for microcontrollers. There are 3D drawings of the stages created in SolidWorks.
 
-![alt text]()
+![alt text](TranslationStage_CERN/ScreenShot.png)
 
 In recent times, an interest in the use of the bent crystals for the high-energy particle beam collimation and extraction has increased. A significant contribution to the technological progress of the development and installation such crystals at accelerators was made by the UA9 collaboration. So far an experimental work is carried out for the characterization of the crystals, their production and use on such accelerators as SPS or LHC at CERN. Nevertheless, before using the crystal for its intended purpose, it must be checked: determine the angle of the deflection, the efficiency of the channeling etc. Such tests are conducted at H8 SPS extraction beam line.
 
