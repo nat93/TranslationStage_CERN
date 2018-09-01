@@ -15,3 +15,9 @@ Description:
 >> TranslationStage_MATLAB_SOURCE -- a GUI script based on MATLAB.
 >> TS-1 3D-CAD -- 3D model of the single translation stage.
 >> TS-2 3D-CAD -- 3D model of the double translation stage.
+
+Single Translation Stage:
+![alt text](https://github.com/nat93/TranslationStage_CERN/blob/master/photo_1.JPG)
+
+Double Translation Stage:
+![alt text](https://github.com/nat93/TranslationStage_CERN/blob/master/photo_2.JPG)
